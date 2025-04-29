@@ -123,6 +123,7 @@ jobs:
       with:
         push: true
         tags: shanthiyark/bankapp:latest
+        file: ./Dockerfile
     
         
         
